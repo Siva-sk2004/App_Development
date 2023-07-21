@@ -1,0 +1,23 @@
+/* Add CSS styles for the form container */
+ .pb{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.247);
+    background-color: #86b7e95b;
+    /* Use grid layout to center the form */
+    display: grid;
+    margin-top: 30px;
+    place-items: center;
+    height: 84vh; /* Adjust the height as per your requirement */
+    
+      
+  }
+
+label{
+    display: inline;
+}
+
+
+  
