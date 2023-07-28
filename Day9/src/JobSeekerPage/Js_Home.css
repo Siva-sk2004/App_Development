@@ -1,0 +1,27 @@
+.Home{
+    padding: 50px;
+}
+.Home1{
+    display: flex;
+    padding: 0 30px 10px 10px;
+}
+.homeimage{
+    height: 450px;
+}
+.Home2{
+    display: flex;
+    padding: 0 30px 10px 10px;
+}
+.Home3{
+    display: flex;
+    padding: 0 30px 10px 10px;
+}
+.Home4{
+    display: flex;
+    padding: 0 30px 50px 10px;
+}
+.Home5{
+    padding-top: 80px;
+    padding-bottom: 60px;
+    background-color: rgb(52, 66, 196);
+}

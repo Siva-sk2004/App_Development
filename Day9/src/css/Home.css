@@ -1,0 +1,63 @@
+.CardContainer {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 80px;
+    justify-content: center;
+    height: 100vh;
+    font-family: inherit;
+  }
+  
+  .CardContainer .Card {
+    flex: 1 0 300px;
+    max-width: 345px;
+  }
+  
+  .Card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .Card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .Card .MuiCardContent-root {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .Card .MuiTypography-root {
+    margin-top: 10px;
+  }
+  
+  .Card .MuiButton-root {
+    margin-top: 20px;
+  }
+  element.style{
+    text-align: center;
+    
+  }
+  .but1{
+    display: flex;
+    gap: 24px;
+    
+  }
+  .but2{
+    display: flex;
+    gap: 24px;
+  }
+  .but3{
+    display: flex;
+    gap: 24px;
+  }
+  .lp{
+    background-image: url('C:\Users\sivas\OneDrive\Desktop\ProjectFrontend\jobsearch\public\images\Employment, Hiring and Background Screening Trends for 2022.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
